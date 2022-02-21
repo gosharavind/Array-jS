@@ -1,0 +1,23 @@
+{
+  "name": "Javscript-Arrays",
+  "version": "1.0.0",
+  "description": "Array operations in Javascript in Basic to  advance.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SanthD/Javscript-Arrays.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SanthD/Javscript-Arrays/issues"
+  },
+  "homepage": "https://github.com/SanthD/Javscript-Arrays#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
